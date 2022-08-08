@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "C0iXvarDQ/U5rdEKJyASdOALwVaT0so6WA0/uRMpbf0=",
+  "Source": "Random_Password_Generator",
+  "BasePath": "_content/Random_Password_Generator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Random_Password_Generator\\wwwroot",
+      "Source": "Random_Password_Generator",
+      "ContentRoot": "C:\\Users\\Kelvin\\Desktop\\CSharp\\Assignments\\Random_Password_Generator\\wwwroot\\",
+      "BasePath": "_content/Random_Password_Generator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kelvin\\Desktop\\CSharp\\Assignments\\Random_Password_Generator\\wwwroot\\css\\style.css",
+      "SourceId": "Random_Password_Generator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kelvin\\Desktop\\CSharp\\Assignments\\Random_Password_Generator\\wwwroot\\",
+      "BasePath": "_content/Random_Password_Generator",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
